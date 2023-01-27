@@ -1,2 +1,4 @@
 # git_test
-just learning git
+
+Learning git from [The Odin Project](https://www.theodinproject.com). And I know nothing. Nice.
+
